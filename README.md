@@ -149,4 +149,3 @@ This project uses open-source technologies including:
 
 ---
 
-⭐ If you found this project interesting, consider giving the repository a star!
